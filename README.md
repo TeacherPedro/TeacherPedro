@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**TeacherPedro/TeacherPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Pedro Urbano. Aqui no GitHub fica como **TeacherPedro** 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eis alguns fatos sobre mim dentro da Escola 😺 :
+
+- 👨‍🏫📚Sou Professor de Ingles
+- 🌱 Ministro aulas de Tecnologia Educacional
+- 💓 Eu amo tecnologia
+- ![](https://media.tenor.com/yT9FeNzcd-YAAAAM/hello-old-people.gif
+)
+
+
+- 💬 Me pergunte sobre música🎼, tecnologia💻, animes🦊🐉 e filmes🎥 que eu gosto de falar sobre
+- 🤝Vou usar aqui para compartilhar meus projetos desenvolvidos
+**Voce pode entrar em contato comigo 📧**
+
+pedro.florencio.neto@escola.pr.gov.br
+
+- 
+
+🕺 Fora da escola, eu sou professor de dança coletiva em academia
+  
+[@pedro.prof.ftdnc](https://www.instagram.com/pedro.prof.ftdnc?igsh=MXIyejRuMWlranByaA==)
+
+![](https://media.tenor.com/uaxEOzYnHxgAAAAM/lucas-viana-handsome.gif)
+
+
